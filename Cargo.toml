@@ -9,3 +9,4 @@ edition = "2018"
 nom = {version = "4.1", features = ["verbose-errors"]}
 nalgebra = "0.16.0"
 typenum = "1.10"
+chrono = {version = "0.4"}

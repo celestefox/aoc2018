@@ -2,3 +2,4 @@
 **/*.rs.bk
 /inputs/*
 !/inputs/.gitignore
+/Session.vim
