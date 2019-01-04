@@ -6,3 +6,6 @@ license = "MIT OR Apache-2.0"
 edition = "2018"
 
 [dependencies]
+nom = {version = "4.1", features = ["verbose-errors"]}
+nalgebra = "0.16.0"
+typenum = "1.10"
